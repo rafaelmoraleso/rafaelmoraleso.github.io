@@ -1074,7 +1074,7 @@ section.lazy-placeholder:after {
 }
 .cid-s4DYk7ggID {
   padding-top: 0px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   background-color: #efefef;
 }
 .cid-s4DYk7ggID h4 {
@@ -1090,6 +1090,26 @@ section.lazy-placeholder:after {
   padding-top: 2rem;
 }
 .cid-s4DYk7ggID .card-wrapper {
+  height: 100%;
+}
+.cid-s4LCAMZWqu {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #efefef;
+}
+.cid-s4LCAMZWqu h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-s4LCAMZWqu p {
+  color: #767676;
+  text-align: left;
+}
+.cid-s4LCAMZWqu .card-box {
+  padding-top: 2rem;
+}
+.cid-s4LCAMZWqu .card-wrapper {
   height: 100%;
 }
 .cid-s0wJxUpiSR {
